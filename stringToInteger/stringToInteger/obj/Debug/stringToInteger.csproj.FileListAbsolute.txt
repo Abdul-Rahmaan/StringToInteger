@@ -1,0 +1,8 @@
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\bin\Debug\stringToInteger.exe.config
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\bin\Debug\stringToInteger.exe
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\bin\Debug\stringToInteger.pdb
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\obj\Debug\stringToInteger.csproj.AssemblyReference.cache
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\obj\Debug\stringToInteger.csproj.SuggestedBindingRedirects.cache
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\obj\Debug\stringToInteger.csproj.CoreCompileInputs.cache
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\obj\Debug\stringToInteger.exe
+E:\leetProblems\StringToInteger\StringToInteger\stringToInteger\stringToInteger\obj\Debug\stringToInteger.pdb
